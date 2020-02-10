@@ -17,9 +17,11 @@ cd ~/esp32/esp-idf
 
 You should see this:
 
+```
 Base directory: ~/esp32
 ESP-Toolchain directory: ~/esp32/xtensa-esp32-elf/bin
 ESP-IDF directory: ~/esp32/esp-idf
+```
 
 ### Add export to bashrc
 
